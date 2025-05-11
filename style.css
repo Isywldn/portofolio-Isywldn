@@ -127,9 +127,9 @@ section {
 }
 
 .home-img img {
-  width: 60px; /* Ukuran kecil untuk gambar */
-  height: 60px; /* Mengatur tinggi gambar */
-  border-radius: 50%;
+  width: 160px; /* Ukuran kecil untuk gambar */
+  height: 600px; /* Mengatur tinggi gambar */
+  border-radius: 100%;
   box-shadow: 0 0 25px #ff9800;
   border: 1px solid #ff9800;
   cursor: pointer;
@@ -145,6 +145,7 @@ section {
 .middle-image img {
     width: 40%; /* Ukuran gambar */
     height: auto; /* Menjaga proporsi gambar */
+   box-shadow: orange;
     border-radius: 100px; /* Mengatur sudut jika diinginkan */
     
 }
