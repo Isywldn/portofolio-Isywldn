@@ -143,9 +143,9 @@ section {
 }
 
 .middle-image img {
-    width: 80%; /* Ukuran gambar */
+    width: 40%; /* Ukuran gambar */
     height: auto; /* Menjaga proporsi gambar */
-    border-radius: 10px; /* Mengatur sudut jika diinginkan */
+    border-radius: 100px; /* Mengatur sudut jika diinginkan */
     
 }
 
