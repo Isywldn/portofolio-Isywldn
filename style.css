@@ -146,7 +146,7 @@ section {
     width: 40%; /* Ukuran gambar */
     height: auto; /* Menjaga proporsi gambar */
    box-shadow: orange;
-    border-radius: 100px; /* Mengatur sudut jika diinginkan */
+    border-radius: 1000px; /* Mengatur sudut jika diinginkan */
     
 }
 
